@@ -1,32 +1,32 @@
 export default [
   {
     id: 1,
-    name: 'Bertie Yates',
+    name: "Helen Sideboard",
     age: 29,
-    image: 'https://www.course-api.com/images/people/person-1.jpeg',
+    image: "https://www.course-api.com/images/people/person-1.jpeg",
   },
   {
     id: 2,
-    name: 'Hester Hogan',
+    name: "Susan Socks",
     age: 32,
-    image: 'https://www.course-api.com/images/people/person-2.jpeg',
+    image: "https://www.course-api.com/images/people/person-2.jpeg",
   },
   {
     id: 3,
-    name: 'Larry Little',
+    name: "Steven Trousers",
     age: 36,
-    image: 'https://www.course-api.com/images/people/person-3.jpeg',
+    image: "https://www.course-api.com/images/people/person-3.jpeg",
   },
   {
     id: 4,
-    name: 'Sean Walsh',
+    name: "David Cupboard",
     age: 34,
-    image: 'https://www.course-api.com/images/people/person-4.jpeg',
+    image: "https://www.course-api.com/images/people/person-4.jpeg",
   },
   {
     id: 5,
-    name: 'Lola Gardner',
+    name: "Laura Varnish",
     age: 29,
-    image: 'https://www.course-api.com/images/people/person-5.jpeg',
+    image: "https://www.course-api.com/images/people/person-5.jpeg",
   },
 ];
