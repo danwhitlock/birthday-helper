@@ -7,8 +7,15 @@ const App = () => {
   return (
     <div>
       <section className="container">
-        <h3>{people.length} Today's Birthdays</h3>
+        <h3>{people.length} Birthdays Today</h3>
         <List people={people} />
+        <button
+          className="btn btn-block"
+          type="button"
+          onClick={() => setPeople([])}
+        >
+          Clear List
+        </button>
       </section>
     </div>
   );
